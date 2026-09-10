@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#F7F7F7"/>
+  <style>
+    .title{font:700 38px Arial,sans-serif;fill:#0C2340}.headline{font:700 25px Arial,sans-serif;fill:#0C2340}.sub{font:500 16px Arial,sans-serif;fill:#4E626A}.tiny{font:700 12px Arial,sans-serif;letter-spacing:1.8px;fill:#00857C}.h2{font:700 18px Arial,sans-serif;fill:#0C2340}.h3{font:700 15px Arial,sans-serif;fill:#0C2340}.body{font:400 12.5px Arial,sans-serif;fill:#4E626A}.small{font:400 11.5px Arial,sans-serif;fill:#4E626A}.card{fill:#FFFFFF;stroke:#CAC9C8;stroke-width:1}.soft{fill:#EAF7F5;stroke:#B9DED8;stroke-width:1}.teal{fill:#00857C}.inv{font:700 15px Arial,sans-serif;fill:#FFFFFF}.inv2{font:400 11.5px Arial,sans-serif;fill:#FFFFFF}.pill{font:700 10.5px Arial,sans-serif;letter-spacing:1px;fill:#00857C}
+  </style>
+
+  <text x="55" y="42" class="tiny">METI · INNOVATION SERVICES</text>
+  <rect x="1315" y="21" width="225" height="36" rx="18" fill="none" stroke="#00857C"/>
+  <text x="1360" y="44" class="tiny">EXECUTIVE BRIEFING</text>
+
+  <text x="55" y="94" class="title">Sensing &amp; Decision Intelligence</text>
+  <text x="55" y="136" class="headline">We translate external change into evidence-backed intelligence for leadership action on enterprise priorities and investment decisions.</text>
+  <text x="55" y="168" class="sub">Enterprise-wide intelligence supporting strategy, technology choices, future readiness and investment decisions</text>
+  <text x="55" y="193" class="tiny">EA  ·  CLOUD &amp; INFRASTRUCTURE  ·  MRL  ·  CD&amp;AO  ·  ITRMS</text>
+
+  <text x="55" y="232" class="tiny">INTELLIGENCE IN ACTION</text>
+
+  <rect x="55" y="247" width="360" height="145" rx="12" class="card"/>
+  <rect x="74" y="265" width="205" height="23" rx="11" class="soft"/><text x="88" y="280" class="pill">JEFF · CLOUD &amp; INFRASTRUCTURE</text>
+  <text x="74" y="316" class="h2">Broadcom / VMware</text>
+  <text x="74" y="342" class="h3">External perspective for an active strategy</text>
+  <text x="74" y="366" class="body">Market, technology and ecosystem developments assessed</text>
+  <text x="74" y="384" class="body">against the current private-cloud strategic direction.</text>
+
+  <rect x="430" y="247" width="360" height="145" rx="12" class="card"/>
+  <rect x="449" y="265" width="185" height="23" rx="11" class="soft"/><text x="463" y="280" class="pill">MIKE TUCKER · DATA PROTECTION</text>
+  <text x="449" y="316" class="h2">Data Protection — What’s Emerging</text>
+  <text x="449" y="342" class="h3">Proactive future-readiness sensing</text>
+  <text x="449" y="366" class="body">Emerging developments assessed for implications beyond</text>
+  <text x="449" y="384" class="body">the current data-protection roadmap.</text>
+
+  <rect x="805" y="247" width="360" height="145" rx="12" class="card"/>
+  <rect x="824" y="265" width="175" height="23" rx="11" class="soft"/><text x="838" y="280" class="pill">ASHEESH CHABBRA · CD&amp;AO</text>
+  <text x="824" y="316" class="h2">Enterprise Data Marketplace</text>
+  <text x="824" y="342" class="h3">External intelligence for capability direction</text>
+  <text x="824" y="366" class="body">Market and technology intelligence applied to enterprise</text>
+  <text x="824" y="384" class="body">data strategy and capability choices.</text>
+
+  <rect x="1180" y="247" width="360" height="145" rx="12" class="card"/>
+  <rect x="1199" y="265" width="125" height="23" rx="11" class="soft"/><text x="1213" y="280" class="pill">TIM · ITRMS</text>
+  <text x="1199" y="316" class="h2">AI Security &amp; Governance</text>
+  <text x="1199" y="342" class="h3">Emerging risk and capability intelligence</text>
+  <text x="1199" y="366" class="body">External evidence translated into security implications,</text>
+  <text x="1199" y="384" class="body">capability priorities and leadership questions.</text>
+
+  <rect x="55" y="408" width="1485" height="38" rx="9" class="soft"/>
+  <text x="77" y="432" class="small">Additional enterprise applications: Alternatives to Tanzu  ·  VMware/Broadcom alternatives &amp; migration implications  ·  Alternatives to Commvault  ·  Biopharma Data Visualization Platform</text>
+
+  <text x="55" y="482" class="tiny">WHAT WE DO</text>
+  <text x="560" y="482" class="tiny">HOW WE ARE DIFFERENT</text>
+  <text x="1065" y="482" class="tiny">BENEFITS OF ENGAGING</text>
+
+  <rect x="55" y="496" width="475" height="126" rx="12" class="card"/>
+  <text x="78" y="526" class="h2">Proactive Sensing + On-Demand Decision Research</text>
+  <text x="78" y="553" class="body">Sense external technology, market, ecosystem and regulatory change.</text>
+  <text x="78" y="575" class="body">Answer strategic questions tied to enterprise priorities and investments.</text>
+  <text x="78" y="597" class="body">Translate evidence into implications, strategic questions and actions.</text>
+
+  <rect x="560" y="496" width="475" height="126" rx="12" class="card"/>
+  <text x="583" y="526" class="h2">Enterprise-Contextualized, Independent &amp; Evidence-Backed</text>
+  <text x="583" y="553" class="body">Research is anchored to enterprise priorities, strategies and programs.</text>
+  <text x="583" y="575" class="body">Conclusions remain traceable to verified, technology-neutral evidence.</text>
+  <text x="583" y="597" class="body">Connected intelligence correlates change across technologies and domains.</text>
+
+  <rect x="1065" y="496" width="475" height="126" rx="12" class="card"/>
+  <text x="1088" y="526" class="h2">Decision Readiness</text>
+  <text x="1088" y="553" class="body">Inform technology roadmaps, priorities and investment choices.</text>
+  <text x="1088" y="575" class="body">Support future-readiness and strategy reassessment when conditions change.</text>
+  <text x="1088" y="597" class="body">Enable enterprise-informed vendor, partner and advisory engagements.</text>
+
+  <text x="55" y="662" class="tiny">CONNECTED INTELLIGENCE ADVANTAGE</text>
+  <rect x="55" y="676" width="1485" height="82" rx="12" class="teal"/>
+  <text x="86" y="708" class="inv">External Signals + Enterprise Context  →  Enterprise Impact Intelligence</text>
+  <text x="86" y="734" class="inv2">External sensing identifies what is changing. Internal context identifies where it could matter — across priorities, programs, architecture, capabilities and investments.</text>
+
+  <text x="55" y="796" class="tiny">HOW WE DELIVER AT SCALE</text>
+  <rect x="55" y="808" width="1485" height="70" rx="12" class="card"/>
+  <text x="80" y="836" class="h3">CONNECTED INTELLIGENCE PLATFORM</text>
+  <text x="80" y="858" class="small">Signals + evidence + prior research + enterprise context</text>
+  <line x1="555" y1="818" x2="555" y2="868" stroke="#CAC9C8"/>
+  <text x="595" y="836" class="h3">AGENTIC AI–ASSISTED</text>
+  <text x="595" y="858" class="small">Sensing + discovery + correlation + monitoring + synthesis</text>
+  <line x1="1045" y1="818" x2="1045" y2="868" stroke="#CAC9C8"/>
+  <text x="1085" y="836" class="h3">HUMAN-GOVERNED</text>
+  <text x="1085" y="858" class="small">Evidence validation + enterprise context + conclusions + leadership questions</text>
+</svg>
