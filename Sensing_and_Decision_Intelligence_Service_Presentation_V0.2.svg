@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#F7F7F7"/>
+  <style>
+    .title{font:700 39px Arial,sans-serif;fill:#0C2340}.headline{font:700 24px Arial,sans-serif;fill:#0C2340}.sub{font:500 17px Arial,sans-serif;fill:#4E626A}.tiny{font:700 12px Arial,sans-serif;letter-spacing:2px;fill:#00857C}.h2{font:700 20px Arial,sans-serif;fill:#0C2340}.h3{font:700 16px Arial,sans-serif;fill:#0C2340}.body{font:400 13px Arial,sans-serif;fill:#4E626A}.small{font:400 12px Arial,sans-serif;fill:#4E626A}.card{fill:#FFFFFF;stroke:#CAC9C8;stroke-width:1}.soft{fill:#EAF7F5;stroke:#B9DED8;stroke-width:1}.teal{fill:#00857C}.inv{font:700 16px Arial,sans-serif;fill:#FFFFFF}.inv2{font:400 12px Arial,sans-serif;fill:#FFFFFF}.pill{font:700 11px Arial,sans-serif;letter-spacing:1.3px;fill:#00857C}
+  </style>
+
+  <!-- Header -->
+  <text x="55" y="42" class="tiny">METI · INNOVATION SERVICES</text>
+  <rect x="1315" y="21" width="225" height="36" rx="18" fill="none" stroke="#00857C"/>
+  <text x="1360" y="44" class="tiny">EXECUTIVE BRIEFING</text>
+  <text x="55" y="96" class="title">Sensing &amp; Decision Intelligence</text>
+  <text x="55" y="137" class="headline">We identify external change that could materially affect today’s priorities and tomorrow’s investments —</text>
+  <text x="55" y="169" class="headline">and translate it into evidence-backed intelligence for leadership action.</text>
+  <text x="55" y="198" class="sub">Sense what matters. Understand what it means for the enterprise. Inform what leaders do next.</text>
+
+  <!-- Proof points -->
+  <text x="55" y="238" class="tiny">INTELLIGENCE IN ACTION</text>
+
+  <rect x="55" y="253" width="475" height="150" rx="12" class="card"/>
+  <rect x="76" y="271" width="152" height="24" rx="12" class="soft"/><text x="94" y="287" class="pill">PRIVATE CLOUD / BROADCOM</text>
+  <text x="76" y="326" class="h2">External Perspective for an Active Strategy</text>
+  <text x="76" y="352" class="body">Market, technology and ecosystem shifts assessed against the</text>
+  <text x="76" y="373" class="body">existing Broadcom / VMware direction.</text>
+
+  <rect x="562" y="253" width="475" height="150" rx="12" class="card"/>
+  <rect x="583" y="271" width="130" height="24" rx="12" class="soft"/><text x="601" y="287" class="pill">DATA PROTECTION</text>
+  <text x="583" y="326" class="h2">Proactive Future-Readiness Sensing</text>
+  <text x="583" y="352" class="body">Agentic AI, identity, security, regulatory, cloud and quantum</text>
+  <text x="583" y="373" class="body">signals assessed beyond today’s protection roadmap.</text>
+
+  <rect x="1069" y="253" width="471" height="150" rx="12" class="card"/>
+  <rect x="1090" y="271" width="102" height="24" rx="12" class="soft"/><text x="1108" y="287" class="pill">BIOPHARMA</text>
+  <text x="1090" y="326" class="h2">Decision Research for Capability Choices</text>
+  <text x="1090" y="352" class="body">External technology and market intelligence translated into</text>
+  <text x="1090" y="373" class="body">implications for enterprise capability and technology choices.</text>
+
+  <text x="55" y="429" class="small">USED BY: CTO / SVP / VP technology leaders · Enterprise Architecture · Domain / Product / Program leaders</text>
+
+  <!-- 3-column proposition -->
+  <text x="55" y="471" class="tiny">THE SERVICE PROPOSITION</text>
+
+  <rect x="55" y="486" width="475" height="150" rx="12" class="card"/>
+  <text x="76" y="515" class="tiny">WHAT WE DO</text>
+  <text x="76" y="549" class="h2">Proactive Sensing + On-Demand Decision Research</text>
+  <text x="76" y="579" class="body">Detect what leaders may need to know and answer the priority</text>
+  <text x="76" y="600" class="body">technology questions they are already asking.</text>
+
+  <rect x="562" y="486" width="475" height="150" rx="12" class="card"/>
+  <text x="583" y="515" class="tiny">HOW WE ARE DIFFERENT</text>
+  <text x="583" y="549" class="h2">Enterprise-Contextualized, Independent &amp; Evidence-Backed</text>
+  <text x="583" y="579" class="body">External evidence connected to priorities, programs and decisions —</text>
+  <text x="583" y="600" class="body">with conclusions transparent to their evidence basis.</text>
+
+  <rect x="1069" y="486" width="471" height="150" rx="12" class="card"/>
+  <text x="1090" y="515" class="tiny">BENEFIT OF ENGAGING</text>
+  <text x="1090" y="549" class="h2">Earlier, Better-Informed Technology Decisions</text>
+  <text x="1090" y="579" class="body">Surface what may require leadership attention before priorities,</text>
+  <text x="1090" y="600" class="body">roadmaps or investments become harder to change.</text>
+
+  <!-- Convergence -->
+  <text x="603" y="674" class="tiny">TWO PATHS · ONE INTELLIGENCE MODEL</text>
+  <rect x="55" y="690" width="355" height="60" rx="10" class="soft"/>
+  <text x="78" y="716" class="h3">Proactive Sensing</text>
+  <text x="78" y="737" class="small">Identify what leaders may need to know.</text>
+  <line x1="410" y1="720" x2="545" y2="720" stroke="#00857C" stroke-width="2"/>
+  <polygon points="545,720 533,713 533,727" fill="#00857C"/>
+  <rect x="545" y="682" width="510" height="76" rx="12" class="teal"/>
+  <text x="673" y="712" class="inv">Enterprise Decision &amp; Action Intelligence</text>
+  <text x="661" y="738" class="inv2">Evidence → Enterprise Context → Implications → Leadership Action</text>
+  <line x1="1190" y1="720" x2="1055" y2="720" stroke="#00857C" stroke-width="2"/>
+  <polygon points="1055,720 1067,713 1067,727" fill="#00857C"/>
+  <rect x="1190" y="690" width="350" height="60" rx="10" class="soft"/>
+  <text x="1213" y="716" class="h3">On-Demand Research</text>
+  <text x="1213" y="737" class="small">Answer what leaders need to know.</text>
+
+  <!-- Horizontal foundation -->
+  <text x="635" y="790" class="tiny">HOW WE DELIVER AT SCALE</text>
+  <rect x="55" y="805" width="1485" height="70" rx="12" class="card"/>
+  <text x="82" y="833" class="h3">Connected Intelligence Platform</text>
+  <text x="82" y="855" class="small">Connects signals, evidence, research, priorities and previous intelligence.</text>
+  <line x1="552" y1="818" x2="552" y2="862" stroke="#CAC9C8"/>
+  <text x="590" y="833" class="h3">Agentic AI–Assisted</text>
+  <text x="590" y="855" class="small">Accelerates sensing, discovery, correlation, monitoring and synthesis.</text>
+  <line x1="1048" y1="818" x2="1048" y2="862" stroke="#CAC9C8"/>
+  <text x="1085" y="833" class="h3">Human-Governed</text>
+  <text x="1085" y="855" class="small">Validates evidence, applies context and frames leadership action.</text>
+
+  <text x="609" y="896" class="small">Platform connects it. AI scales it. Humans govern it. · V0.2 DRAFT</text>
+</svg>
