@@ -20,6 +20,10 @@ Provide evidence and implications to inform technology roadmaps, strategic choic
 ### 3. Strengthen Future Readiness
 Identify emerging shifts early enough to prepare capabilities, explore opportunities and direct innovation before decisions become urgent.
 
+**Primary users:** CTO/SVP/VP technology leaders, Enterprise Architecture, technology/domain leaders, product/program leaders and teams facing strategic technology decisions.
+
+---
+
 ## What We Do
 
 ### Proactive Sensing & Foresight
@@ -31,16 +35,20 @@ Rapid and strategic research for priority questions, technology choices, vendor/
 ### Decision & Action Intelligence
 Translate research into enterprise implications, strategic questions, options and recommended next actions for leadership consideration.
 
+---
+
 ## How We Are Different
 
 ### Enterprise-Contextualized
 Connect external developments to company strategy, business priorities, architecture, existing programs, investments and enterprise constraints — not generic research.
 
-### Independent, Evidence-Backed Intelligence
-Technology- and vendor-neutral research grounded in verified, traceable sources; conclusions are transparent to their evidence basis.
+### Independent, Evidence-Backed Conclusions
+Technology- and vendor-neutral research grounded in verified, traceable sources; evidence is distinguished from synthesis and conclusions.
 
 ### Continuous, Connected & Cross-Domain
 Connect intelligence across technologies, companies, markets, programs and domains — revealing relationships and implications that isolated point-in-time research can miss.
+
+---
 
 ## Benefits of Engaging
 
@@ -53,29 +61,24 @@ Bring external evidence and enterprise implications into decisions before commit
 ### Act Earlier & Stay Ready
 Continuously identify emerging opportunities, risks and decision points so leaders can prepare, investigate or act while options remain open.
 
-## Two Paths, One Intelligence Model
+---
 
-**Proactive Sensing** — Identify what leaders may need to know.  
-**On-Demand Research** — Answer what leaders need to know.  
+## Two Intelligence Lanes — One Decision Outcome
 
-Both converge into:
+### Proactive Sensing
+We identify developments leadership may not yet be asking about.
 
-**Enterprise Decision & Action Intelligence**  
-Evidence → Enterprise Context → Implications → Leadership Question → Decision / Action
+### On-Demand Research
+Leadership has a question that requires deeper intelligence.
 
-## How We Deliver at Scale
+Both converge into the same decision-intelligence flow:
 
-### Connected Intelligence Platform
-Connects signals, evidence, research, enterprise priorities and previous intelligence — building reusable institutional knowledge rather than isolated reports.
+**Evidence → Enterprise Context → Implications → Leadership Question → Decision / Action**
 
-### Agentic AI-Assisted
-Accelerates continuous sensing, evidence discovery, correlation, monitoring and synthesis across large volumes of external information.
+This is the key distinction from self-service information retrieval: the service is designed to determine what external change means for the enterprise, what may materially affect priorities or investments, and what leadership should consider doing next.
 
-### Human-Governed / Human-in-the-Loop
-Validates evidence, applies enterprise context, develops evidence-backed conclusions and frames the strategic questions and actions requiring leadership consideration.
+## Positioning Note
 
-## Positioning Notes
+Use **“evidence-backed conclusions”** rather than “analyst judgment” in executive-facing material. It communicates that conclusions are derived from validated sources and transparent synthesis rather than individual opinion.
 
-- The service is not positioned as generic technology research or as a competitor to self-service AI tools.
-- AI provides scale and speed; human governance provides validity, context and accountability; the platform provides continuity and connected intelligence.
-- "Graph-based" is a platform mechanism and is better explained in backup material; the executive-facing benefit is continuous, connected and cross-domain intelligence.
+For the main executive slide, describe the connected platform capability as **“Continuous, Connected & Cross-Domain Intelligence.”** Keep “graph-based” as a supporting platform mechanism for backup material rather than the headline benefit.
