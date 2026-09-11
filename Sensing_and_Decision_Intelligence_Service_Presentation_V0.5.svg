@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#07152f"/>
+<style>
+.t{font:700 38px Arial,sans-serif;fill:#fff}.s{font:400 18px Arial,sans-serif;fill:#d8e3ef}.ey{font:700 12px Arial,sans-serif;letter-spacing:2px;fill:#24e0d2}.h{font:700 19px Arial,sans-serif;fill:#fff}.b{font:400 13px Arial,sans-serif;fill:#d8e3ef}.sm{font:400 12px Arial,sans-serif;fill:#b9c8da}.card{fill:#0a1935;stroke:#24446a;stroke-width:1}.soft{fill:#0d213f;stroke:#2b5d7d;stroke-width:1}.out{fill:#f6fbfc;stroke:#dbe9ee;stroke-width:1}.odark{font:700 16px Arial,sans-serif;fill:#0c2340}.obody{font:400 12px Arial,sans-serif;fill:#28465b}.cyan{fill:#22e0d0}.green{fill:#2de39e}.purple{fill:#b26bf3}.blue{fill:#39a3ff}
+</style>
+<text x="46" y="40" class="ey">METI · INNOVATION SERVICES</text>
+<rect x="1320" y="18" width="220" height="36" rx="18" fill="none" stroke="#24e0d2"/><text x="1360" y="42" class="ey">EXECUTIVE BRIEFING</text>
+<text x="46" y="86" class="t">Sensing &amp; Decision Intelligence</text>
+<text x="46" y="116" class="s">We translate external change into evidence-backed intelligence for leadership action on enterprise priorities and investment decisions.</text>
+
+<text x="46" y="148" class="ey">OUTCOMES WE PRODUCE</text>
+<rect x="38" y="160" width="490" height="74" rx="11" class="out"/><circle cx="80" cy="197" r="22" fill="#dff5f2"/><text x="73" y="204" class="odark">◎</text><text x="120" y="188" class="odark">Accelerate Current Priorities</text><text x="120" y="208" class="obody">External developments affecting active priorities.</text>
+<rect x="555" y="160" width="490" height="74" rx="11" class="out"/><circle cx="597" cy="197" r="22" fill="#dff5f2"/><text x="590" y="204" class="odark">▥</text><text x="637" y="188" class="odark">Shape Technology Direction &amp; Investment</text><text x="637" y="208" class="obody">Evidence for roadmap and investment choices.</text>
+<rect x="1072" y="160" width="490" height="74" rx="11" class="out"/><circle cx="1114" cy="197" r="22" fill="#dff5f2"/><text x="1107" y="204" class="odark">◆</text><text x="1154" y="188" class="odark">Strengthen Future Readiness</text><text x="1154" y="208" class="obody">Emerging shifts requiring preparation or exploration.</text>
+
+<rect x="34" y="252" width="1528" height="116" rx="12" class="card"/><text x="50" y="274" class="ey">APPLIED IN PRACTICE</text>
+<text x="74" y="310" class="h">Jeff — Cloud &amp; Infrastructure</text><text x="74" y="332" class="b">Broadcom / VMware</text>
+<text x="454" y="310" class="h">Mike Tucker — Data Protection</text><text x="454" y="332" class="b">What’s Emerging</text>
+<text x="838" y="310" class="h">Asheesh Chabbra — CD&amp;AO</text><text x="838" y="332" class="b">Enterprise Data Marketplace</text>
+<text x="1220" y="310" class="h">Tim — ITRMS</text><text x="1220" y="332" class="b">AI Security &amp; Governance</text>
+<rect x="50" y="342" width="1496" height="20" rx="8" class="soft"/><text x="65" y="356" class="sm">ADDITIONAL APPLICATIONS  ·  Alternatives to Tanzu  ·  VMware/Broadcom migration alternatives  ·  Alternatives to Commvault  ·  Biopharma Data Visualization</text>
+
+<rect x="34" y="382" width="492" height="290" rx="12" class="card"/><text x="54" y="410" class="ey">OUR CORE OFFERINGS</text><text x="54" y="438" class="h">What We Do</text>
+<text x="76" y="480" class="h">Proactive Sensing &amp; Foresight</text><text x="76" y="503" class="b">Continuously identify emerging technologies,</text><text x="76" y="521" class="b">market shifts and external signals relevant</text><text x="76" y="539" class="b">to enterprise priorities.</text>
+<text x="76" y="575" class="h">On-Demand Decision Research</text><text x="76" y="598" class="b">Rapid, structured research to answer priority</text><text x="76" y="616" class="b">questions and inform technology, vendor and</text><text x="76" y="634" class="b">investment decisions.</text>
+
+<rect x="554" y="382" width="492" height="290" rx="12" class="card"/><text x="574" y="410" class="ey" style="fill:#b26bf3">OUR APPROACH</text><text x="574" y="438" class="h">How We Are Different</text>
+<text x="596" y="480" class="h">Enterprise-Contextualized</text><text x="596" y="503" class="b">Anchored to enterprise priorities, programs,</text><text x="596" y="521" class="b">architecture and investments — not generic research.</text>
+<text x="596" y="575" class="h">Independent &amp; Evidence-Backed</text><text x="596" y="598" class="b">Technology- and vendor-neutral research grounded</text><text x="596" y="616" class="b">in verified, traceable sources.</text>
+<text x="596" y="650" class="h">Connected, Cross-Domain Intelligence</text>
+
+<rect x="1074" y="382" width="488" height="290" rx="12" class="card"/><text x="1094" y="410" class="ey" style="fill:#2de39e">VALUE DELIVERED</text><text x="1094" y="438" class="h">Benefits of Engaging</text>
+<text x="1116" y="480" class="h">Accelerate Current Priorities</text><text x="1116" y="503" class="b">Surface developments that can materially affect</text><text x="1116" y="521" class="b">active business and technology priorities.</text>
+<text x="1116" y="575" class="h">Shape Technology Direction &amp; Investment</text><text x="1116" y="598" class="b">Provide evidence and implications to inform</text><text x="1116" y="616" class="b">roadmaps and strategic choices.</text>
+<text x="1116" y="650" class="h">Strengthen Future Readiness</text>
+
+<rect x="34" y="688" width="1528" height="166" rx="12" class="card"/><text x="50" y="712" class="ey">POWERED BY A CONNECTED INTELLIGENCE MODEL</text>
+<rect x="64" y="730" width="360" height="52" rx="10" class="soft"/><text x="92" y="752" class="h">Proactive Sensing</text><text x="92" y="770" class="sm">Identify what leaders may need to know.</text>
+<line x1="424" y1="756" x2="568" y2="756" stroke="#24e0d2" stroke-width="2"/><polygon points="568,756 556,749 556,763" fill="#24e0d2"/>
+<rect x="568" y="724" width="466" height="64" rx="10" fill="#008f88"/><text x="685" y="750" class="h">Enterprise Decision &amp; Action Intelligence</text><text x="650" y="771" class="sm" style="fill:#fff">Evidence → Context → Implications → Leadership Action</text>
+<line x1="1178" y1="756" x2="1034" y2="756" stroke="#24e0d2" stroke-width="2"/><polygon points="1034,756 1046,749 1046,763" fill="#24e0d2"/>
+<rect x="1178" y="730" width="352" height="52" rx="10" class="soft"/><text x="1206" y="752" class="h">On-Demand Research</text><text x="1206" y="770" class="sm">Answer what leaders need to know.</text>
+<text x="58" y="814" class="h">Connected Intelligence Platform</text><text x="58" y="833" class="sm">Signals • Evidence • Research • Priorities</text>
+<text x="558" y="814" class="h">Agentic AI–Assisted</text><text x="558" y="833" class="sm">Sense • Discover • Correlate • Monitor • Synthesize</text>
+<text x="1076" y="814" class="h">Human-Governed</text><text x="1076" y="833" class="sm">Validate • Contextualize • Conclude • Frame Action</text>
+<text x="50" y="878" class="sm">Proprietary &amp; Confidential</text><text x="1215" y="878" class="sm">METI — Merck Enterprise Technology Innovation</text>
+</svg>
